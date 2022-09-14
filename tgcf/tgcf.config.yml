@@ -2,5 +2,5 @@ admins: [Glauco Morandini]
 # when tgcf is run in live mode, the admins can run commands to change the configuration
 
 forwards:
-  - source: CornerProBot
-    dest: [https://t.me/+ZKxeaNuVTvxkZWVh]
+  - source: 'CornerProBot'
+    dest: ['https://t.me/+ZKxeaNuVTvxkZWVh']
